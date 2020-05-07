@@ -1,0 +1,47 @@
+UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,CountryId,CountryName,Region,RegionId,Lat,Long_,Combined_Key,Population
+4,AF,AFG,4,,,,Afghanistan,300,Afghanistan,Asia,10,33.93911,67.709953,Afghanistan,38928341
+50,BD,BGD,50,,,,Bangladesh,301,Bangladesh,Asia,10,23.685,90.3563,Bangladesh,164689383
+56,BE,BEL,56,,,,Belgium,302,Belgium,RAI Europe,80,50.8333,4.469936,Belgium,11589616
+70,BA,BIH,70,,,,Bosnia and Herzegovina,303,Bosnia and Herzegovina,RAI Europe,80,43.9159,17.6791,Bosnia and Herzegovina,3280815
+854,BF,BFA,854,,,,Burkina Faso,304,Burkina Faso,West Africa,40,12.2383,-1.5616,Burkina Faso,20903278
+104,MM,MMR,104,,,,Burma,332,Myanmar,Asia,10,21.9162,95.956,Burma,54409794
+108,BI,BDI,108,,,,Burundi,305,Burundi,Great Lakes,50,-3.3731,29.9189,Burundi,11890781
+120,CM,CMR,120,,,,Cameroon,306,Cameroon,West Africa,40,3.848,11.5021,Cameroon,26545864
+140,CF,CAF,140,,,,Central African Republic,308,Central African Republic,Great Lakes,50,6.6111,20.9394,Central African Republic,4829764
+148,TD,TCD,148,,,,Chad,309,Chad,West Africa,40,15.4542,18.7322,Chad,16425859
+170,CO,COL,170,,,,Colombia,310,Colombia,Latin America,60,4.5709,-74.2973,Colombia,50882884
+180,CD,COD,180,,,,Congo (Kinshasa),312,Democratic Republic of the Congo,Great Lakes,50,-4.322447,15.307045,Congo (Kinshasa),89561404
+384,CI,CIV,384,,,,Cote d'Ivoire,311,Cote d'Ivoire,West Africa,40,7.54,-5.5471,Cote d'Ivoire,26378275
+222,SV,SLV,222,,,,El Salvador,313,El Salvador,Latin America,60,13.7942,-88.8965,El Salvador,6486201
+231,ET,ETH,231,,,,Ethiopia,314,Ethiopia,East Africa,70,9.145,40.4897,Ethiopia,114963583
+276,DE,DEU,276,,,,Germany,316,Germany,RAI Europe,80,51.165691,10.451526,Germany,83783945
+300,GR,GRC,300,,,,Greece,317,Greece,RAI Europe,80,39.0742,21.8243,Greece,10423056
+320,GT,GTM,320,,,,Guatemala,318,Guatemala,Latin America,60,15.7835,-90.2308,Guatemala,17915567
+340,HN,HND,340,,,,Honduras,320,Honduras,Latin America,60,15.2,-86.2419,Honduras,9904608
+368,IQ,IRQ,368,,,,Iraq,321,Iraq,MENA,90,33.223191,43.679291,Iraq,40222503
+380,IT,ITA,380,,,,Italy,364,Italy,RAI Europe,80,41.87194,12.56738,Italy,60461828
+400,JO,JOR,400,,,,Jordan,323,Jordan,MENA,90,31.24,36.51,Jordan,10203140
+404,KE,KEN,404,,,,Kenya,324,Kenya,East Africa,70,-0.0236,37.9062,Kenya,53771300
+422,LB,LBN,422,,,,Lebanon,326,Lebanon,MENA,90,33.8547,35.8623,Lebanon,6825442
+430,LR,LBR,430,,,,Liberia,327,Liberia,West Africa,40,6.428055,-9.429499,Liberia,5057677
+434,LY,LBY,434,,,,Libya,328,Libya,MENA,90,26.3351,17.228331,Libya,6871287
+458,MY,MYS,458,,,,Malaysia,329,Malaysia,Asia,10,4.210484,101.975766,Malaysia,32365998
+466,ML,MLI,466,,,,Mali,330,Mali,West Africa,40,17.570692,-3.996166,Mali,20250834
+484,MX,MEX,484,,,,Mexico,331,Mexico,Latin America,60,23.6345,-102.5528,Mexico,128932753
+562,NE,NER,562,,,,Niger,334,Niger,West Africa,40,17.607789,8.081666,Niger,24206636
+566,NG,NGA,566,,,,Nigeria,335,Nigeria,West Africa,40,9.082,8.6753,Nigeria,206139587
+586,PK,PAK,586,,,,Pakistan,336,Pakistan,Asia,10,30.3753,69.3451,Pakistan,220892331
+686,SN,SEN,686,,,,Senegal,341,Senegal,West Africa,40,14.4974,-14.4524,Senegal,16743930
+688,RS,SRB,688,,,,Serbia,342,Serbia,RAI Europe,80,44.0165,21.0059,Serbia,8737370
+694,SL,SLE,694,,,,Sierra Leone,343,Sierra Leone,West Africa,40,8.460555,-11.779889,Sierra Leone,7976985
+706,SO,SOM,706,,,,Somalia,344,Somalia,East Africa,70,5.152149,46.199616,Somalia,15893219
+728,SS,SSD,728,,,,South Sudan,345,South Sudan,East Africa,70,6.877,31.307,South Sudan,11193729
+729,SD,SDN,729,,,,Sudan,363,Sudan,Emergency,100,12.8628,30.2176,Sudan,43849269
+760,SY,SYR,760,,,,Syria,349,Syria,MENA,90,34.802075,38.996815,Syria,17500657
+834,TZ,TZA,834,,,,Tanzania,350,Tanzania,Great Lakes,50,-6.369028,34.888822,Tanzania,59734213
+764,TH,THA,764,,,,Thailand,351,Thailand,Asia,10,15.870032,100.992541,Thailand,69799978
+788,TN,TUN,788,,,,Tunisia,352,Tunisia,MENA,90,33.886917,9.537499,Tunisia,11818618
+800,UG,UGA,800,,,,Uganda,354,Uganda,East Africa,70,1.373333,32.290275,Uganda,45741000
+862,VE,VEN,862,,,,Venezuela,358,Venezuela,Latin America,60,6.4238,-66.5897,Venezuela,28435943
+887,YE,YEM,887,,,,Yemen,359,Yemen,East Africa,70,15.552727,48.516388,Yemen,29825968
+716,ZW,ZWE,716,,,,Zimbabwe,360,Zimbabwe,East Africa,70,-19.015438,29.154857,Zimbabwe,14862927
